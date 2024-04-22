@@ -1,4 +1,4 @@
-# Visualizaciones de PEC2 Estudio de técnicas de visualización de datos
+# Visualizaciones de PEC2 de visualización de datos
 Bienvenido al repositorio que contiene las visualizaciones realizadas por el alumno **Jesús Manuel Montero Garrido (jmonterogarr@uoc.edu)** correspondientes a la PEC2 de la asignatura Visualización de datos del Máster Universitario en Ciencia de Datos
 
 ## Descripción
