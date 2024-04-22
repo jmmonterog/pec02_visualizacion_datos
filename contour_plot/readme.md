@@ -47,7 +47,8 @@ Un gráfico de contorno, o "contour plot", se utiliza para representar datos tri
 
 *	**Visualización realizada**
 
-+	Conjunto de datos utilizado: Se utiliza el conjunto de datos "Activaciones_niveles_Plan_Nacional_Temperaturas_Estivales_2022.csv", obtenible desde página de OpenData de ECWMF https://www.ecmwf.int/en/forecasts/datasets/open-data .El conjunto de datos descargado y el Jupiter Notebook para realizar la visualizacion están disponiblse en este mismo repositorio en los ficheros "presion_viento_850hPa.jpnb" "presion_viento_850hPa.ipynb" respectivamente dentro de esta misma carpeta de este repositorio.
-+	Resultado de la visualización: Se encuentra disponible en el ichero Agua_Embalsada_Comunidades_Autonomas_2024.png y se reproduce aquí:
++	Conjunto de datos utilizado: Se utiliza el conjunto de datos de predicciones meteorológicas paras las 12:00 horas del días 2024/04/22, obtenible desde página de OpenData de ECWMF https://www.ecmwf.int/en/forecasts/datasets/open-data .El scrpit Jupiter Notebook para descargar los datos y realizar la visualizacion está disponible en este mismo repositorio en el fichero "presion_viento_850hPa.ipynb" en esta misma carpeta.
++	Resultado de la visualización: Se encuentra disponible en el fichero "presion_viento_850hPa.png" y se reproduce aquí:
 
-![image](https://github.com/jmmonterog/pec02_visualizacion_datos/assets/103445965/fcb01ae4-e102-41e1-9c66-f2a5a311aec4)
+![image](https://github.com/jmmonterog/pec02_visualizacion_datos/assets/103445965/6924b772-4c7c-4b3c-b258-50ef52283673)
+
