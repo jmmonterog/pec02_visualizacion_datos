@@ -69,6 +69,10 @@ En áreas con muchas pequeñas entidades geográficas (como un país con muchos 
 
 *	**Visualización realizada**
 
-+	Conjunto de datos utilizado: Se utiliza el conjunto de datos "Agua embalsada en cada Comunidad Autónoma (CCAA)", obtenible desde  https://www.embalses.net/comunidades.php y actualizado con fecha 15-04-2024.  El conjunto de datos descargado está disponible en este mismo repositorio en el fichero "Agua_Embalsada_Comunidades_Autonomas_2024.csv" dentro de esta misma carpeta de este repositorio. 
++	Conjunto de datos utilizado: Se utiliza el conjunto de datos "Agua embalsada en cada Comunidad Autónoma (CCAA)", obtenible desde  https://www.embalses.net/comunidades.php y actualizado con fecha 15-04-2024.  El conjunto de datos descargado está disponible en este mismo repositorio en el fichero "Agua_Embalsada_Comunidades_Autonomas_2024.csv" dentro de esta misma carpeta de este repositorio.
++	Resultado de la visualización: Se encuentra disponible en el ichero cartograma.png y se reproduce aquí:
+
+  ![image](https://github.com/jmmonterog/pec02_visualizacion_datos/assets/103445965/7d4dda1f-7215-46cf-8a9d-847dcc744595)
+
 
   
