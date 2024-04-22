@@ -10,10 +10,10 @@ Un cartograma es un tipo de mapa temático en el que las __áreas geográficas, 
 
 *	**Funcionamiento:**
 
-+ Selección de la Variable: El primer paso en la creación de un cartograma es elegir la variable que afectará el tamaño de las áreas en el mapa.
-+ Redimensionamiento de Áreas: Las áreas geográficas se redimensionan proporcionalmente según la magnitud de la variable seleccionada, lo cual puede llevar a una distorsión significativa de las formas geográficas habituales.
-+ Ajuste de la Distorsión: En algunos casos, se intenta mantener cierta contigüidad y una mínima distorsión de las fronteras originales para que las áreas sigan siendo reconocibles.
-+ Visualización: Finalmente, el cartograma se visualiza con diferentes colores o tonos para indicar la magnitud de la variable de interés, facilitando la comparación visual entre las regiones.
++ __Selección de la Variable__: El primer paso en la creación de un cartograma es elegir la variable que afectará el tamaño de las áreas en el mapa.
++ __Redimensionamiento de Áreas__: Las áreas geográficas se redimensionan proporcionalmente según la magnitud de la variable seleccionada, lo cual puede llevar a una distorsión significativa de las formas geográficas habituales.
++ __Ajuste de la Distorsión__: En algunos casos, se intenta mantener cierta contigüidad y una mínima distorsión de las fronteras originales para que las áreas sigan siendo reconocibles.
++ __Visualización: Finalmente__, el cartograma se visualiza con diferentes colores o tonos para indicar la magnitud de la variable de interés, facilitando la comparación visual entre las regiones.
 
 *	**Ejemplos de Aplicación:**
 
@@ -27,18 +27,18 @@ Un cartograma es un tipo de mapa temático en el que las __áreas geográficas, 
 
 *	**Ventajas:**
 
-+	Los cartogramas proporcionan una representación visual impactante de las diferencias cuantitativas, facilitando la identificación de tendencias y anomalías.
++	Los cartogramas __proporcionan una representación visual impactante de las diferencias cuantitativas__, facilitando la identificación de tendencias y anomalías.
 +	Son especialmente útiles para evitar la sobreinterpretación de áreas geográficamente grandes que tienen valores relativamente pequeños de la variable de interés.
 
 *	**Limitaciones:**
 
-+	La distorsión de las formas geográficas puede hacer que las áreas sean difíciles de reconocer, especialmente si la transformación es extrema.
++	La __distorsión de las formas geográficas puede hacer que las áreas sean difíciles de reconocer__, especialmente si la transformación es extrema.
 +	Puede ser complicado mantener la contigüidad y la proporcionalidad, especialmente en áreas con muchas pequeñas entidades geográficas.
 +	Los cartogramas son una herramienta poderosa en visualización de datos que, cuando se utilizan correctamente, pueden revelar patrones ocultos y proporcionar insights profundos sobre distribuciones complejas de datos.
 
 *	**Tipo de Datos Representables con Cartogramas**
 
-Los cartogramas son más efectivos cuando se utilizan para representar datos cuantitativos. Estos datos deben ser medibles y expresables en forma numérica, ya que el propósito principal del cartograma es redimensionar áreas geográficas basadas en valores numéricos que reflejan una magnitud o frecuencia de un fenómeno particular. Algunos ejemplos de datos cuantitativos incluyen población, ingresos, tasas de enfermedades, producción económica, entre otros.
+Los cartogramas __son más efectivos cuando se utilizan para representar datos cuantitativo__s. Estos datos deben ser medibles y expresables en forma numérica, ya que el propósito principal del cartograma es redimensionar áreas geográficas basadas en valores numéricos que reflejan una magnitud o frecuencia de un fenómeno particular. Algunos ejemplos de datos cuantitativos incluyen población, ingresos, tasas de enfermedades, producción económica, entre otros.
 
 *	**Estructura de los Datos para Cartogramas**
 
@@ -51,9 +51,9 @@ Para crear un cartograma, los datos deben estar estructurados de manera que cada
 
 Rango de Datos:
 
-+	Minimos y Máximos: No hay un mínimo o máximo establecido para los valores de datos en un cartograma, pero es crucial que los datos no tengan una variabilidad extremadamente baja. Si todos los valores son muy similares, el cartograma no mostrará diferencias significativas entre las áreas, lo que limita su utilidad.
++	Minimos y Máximos: __No hay un mínimo o máximo establecido__ para los valores de datos en un cartograma, pero es crucial que los datos no tengan una variabilidad extremadamente baja. __Si todos los valores son muy similares, el cartograma no mostrará diferencias significativas entre las áreas__, lo que limita su utilidad.
 
-+	Datos Atípicos: Los valores extremadamente altos o bajos pueden distorsionar un cartograma de manera significativa. Por ejemplo, un país con una población mucho mayor que otros en un cartograma mundial podría resultar en una representación desproporcionadamente grande que oscurece otros países.
++	Datos Atípicos: Los valores extremadamente altos o bajos pueden distorsionar un cartograma de manera significativa. Por ejemplo, un país con una población mucho mayor que otros en un cartograma mundial podría resultar en una __representación desproporcionadamente grande__ que oscurece otros países.
 
 +	Calidad y Completitud de los Datos:
 
@@ -69,7 +69,7 @@ En áreas con muchas pequeñas entidades geográficas (como un país con muchos 
 
 *	**Visualización realizada**
 
-+	Conjunto de datos utilizado: Se utiliza el conjunto de datos "Agua embalsada en cada Comunidad Autónoma (CCAA)", obtenible desde  https://www.embalses.net/comunidades.php y actualizado con fecha 15-04-2024.  El conjunto de datos descargado está disponible en este mismo repositorio en el fichero "Agua_Embalsada_Comunidades_Autonomas_2024.csv" dentro de esta misma carpeta de este repositorio.
++	Conjunto de datos utilizado: Se utiliza el conjunto de datos __"Agua embalsada en cada Comunidad Autónoma (CCAA)"__, obtenible desde  https://www.embalses.net/comunidades.php y actualizado con fecha 15-04-2024.  El conjunto de datos descargado está disponible en este mismo repositorio en el fichero "Agua_Embalsada_Comunidades_Autonomas_2024.csv" dentro de esta misma carpeta de este repositorio.
 +	Resultado de la visualización: Se encuentra disponible en el ichero cartograma.png y se reproduce aquí:
 
   ![image](https://github.com/jmmonterog/pec02_visualizacion_datos/assets/103445965/7d4dda1f-7215-46cf-8a9d-847dcc744595)
