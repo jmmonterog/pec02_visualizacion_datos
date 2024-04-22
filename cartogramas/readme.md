@@ -47,3 +47,22 @@ Para crear un cartograma, los datos deben estar estructurados de manera que cada
 +	Identificador Geográfico: Nombre o código que identifica de manera única cada área geográfica.
 +	Variable Cuantitativa: Valor numérico que se utilizará para redimensionar cada área en el cartograma.
 
+*	**Limitaciones en Cuanto a Datos**
+
+Rango de Datos:
+
++	Minimos y Máximos: No hay un mínimo o máximo establecido para los valores de datos en un cartograma, pero es crucial que los datos no tengan una variabilidad extremadamente baja. Si todos los valores son muy similares, el cartograma no mostrará diferencias significativas entre las áreas, lo que limita su utilidad.
+
++	Datos Atípicos: Los valores extremadamente altos o bajos pueden distorsionar un cartograma de manera significativa. Por ejemplo, un país con una población mucho mayor que otros en un cartograma mundial podría resultar en una representación desproporcionadamente grande que oscurece otros países.
+
++	Calidad y Completitud de los Datos:
+
+Los datos incompletos o inexactos pueden llevar a representaciones engañosas en un cartograma. Es esencial tener un conjunto de datos completo y preciso para todas las áreas geográficas incluidas en el análisis.
+
++	Proporcionalidad y Reconocimiento Geográfico:
+
+A medida que las áreas geográficas se redimensionan para reflejar los valores de la variable, pueden perder su forma reconocible, lo que puede dificultar la interpretación del mapa para aquellos menos familiarizados con la geografía subyacente.
+
++	Escalabilidad:
+
+En áreas con muchas pequeñas entidades geográficas (como un país con muchos pequeños estados o provincias), el cartograma puede volverse visualmente caótico o difícil de interpretar, especialmente si las diferencias en los datos son grandes.
