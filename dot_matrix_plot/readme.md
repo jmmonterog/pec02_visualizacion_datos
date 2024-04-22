@@ -62,7 +62,8 @@ Cantidad de Datos:
 *	**Visualización realizada**
 
 +	Conjunto de datos utilizado: Se utiliza el conjunto de datos "Activaciones_niveles_Plan_Nacional_Temperaturas_Estivales_2022.csv", obtenible desde  https://www.sanidad.gob.es/ciudadanos/saludAmbLaboral/planAltasTemp/2022/home.htm .  El conjunto de datos descargado está disponible en este mismo repositorio en el fichero "Agua_Embalsada_Comunidades_Autonomas_2024.csv" dentro de esta misma carpeta de este repositorio.
-+	Resultado de la visualización: Se encuentra disponible en el ichero cartograma.png y se reproduce aquí:
++	Resultado de la visualización: Se encuentra disponible en el ichero Agua_Embalsada_Comunidades_Autonomas_2024.png y se reproduce aquí:
 
-  ![image](https://github.com/jmmonterog/pec02_visualizacion_datos/assets/103445965/7d4dda1f-7215-46cf-8a9d-847dcc744595)
+![image](https://github.com/jmmonterog/pec02_visualizacion_datos/assets/103445965/fcb01ae4-e102-41e1-9c66-f2a5a311aec4)
+
 
