@@ -66,3 +66,9 @@ A medida que las áreas geográficas se redimensionan para reflejar los valores 
 +	Escalabilidad:
 
 En áreas con muchas pequeñas entidades geográficas (como un país con muchos pequeños estados o provincias), el cartograma puede volverse visualmente caótico o difícil de interpretar, especialmente si las diferencias en los datos son grandes.
+
+*	**Visualización realizada**
+
++	Conjunto de datos utilizado: Se utiliza el conjunto de datos "Agua embalsada en cada Comunidad Autónoma (CCAA)", obtenible desde  https://www.embalses.net/comunidades.php y actualizado con fecha 15-04-2024.  El conjunto de datos descargado está disponible en este mismo repositorio en el fichero "Agua_Embalsada_Comunidades_Autonomas_2024.csv" dentro de esta misma carpeta de este repositorio. 
+
+  
