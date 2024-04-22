@@ -35,7 +35,7 @@ Un Dot Matrix Chart es una forma de visualización que __utiliza una matriz de p
 +	Menos Detalles: No es ideal para mostrar tendencias o patrones complejos dentro de los datos.
 
 
-*	**Tipo de Datos Representables con Cartogramas**
+*	**Tipo de Datos Representables con Dot Matrix Plot**
 
 Un Dot Matrix Chart __es ideal para representar datos cuantitativos__, donde cada punto en la matriz puede representar una unidad o un incremento de la variable cuantitativa. Este tipo de gráfico muestra efectivamente la frecuencia o la cantidad de ocurrencias, haciendo que sea adecuado para datos que son contables y discretos.
 
