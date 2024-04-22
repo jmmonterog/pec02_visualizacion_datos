@@ -2,11 +2,11 @@
 
 *	**Origen:**
 
-Los cartogramas tienen un origen histórico que se remonta a __principios del siglo XX__, siendo utilizados inicialmente por economistas y geógrafos para representar información estadística de manera espacial y visual. El cartograma como técnica fue popularizado por el geógrafo alemán Waldo R. Tobler en la década de 1960, quien desarrolló métodos sistemáticos para su creación.
+Los cartogramas tienen un origen histórico que se remonta a __principios del siglo XX__, siendo utilizados inicialmente por __economistas y geógrafos__ para representar información estadística de manera espacial y visual. El cartograma como técnica fue popularizado por el __geógrafo alemán Waldo R. Tobler__ en la década de 1960, quien desarrolló métodos sistemáticos para su creación.
 
 *	**Descripción/Funcionamiento:**
 
-Un cartograma es un tipo de mapa temático en el que las áreas geográficas, como países o regiones, se redimensionan de acuerdo con una variable específica que se desea representar. Esta variable puede ser cualquier dato cuantitativo, como población, producto Interno Bruto (PIB), número de incidentes de un evento, etc. En un cartograma, la representación geográfica tradicional se distorsiona para reflejar la importancia relativa de la variable seleccionada en lugar de la superficie terrestre real.
+Un cartograma es un tipo de mapa temático en el que las __áreas geográficas, como países o regiones, se redimensionan de acuerdo con una variable específica que se desea representar__. Esta variable puede ser cualquier dato cuantitativo, como población, producto Interno Bruto (PIB), número de incidentes de un evento, etc. En un cartograma, __la representación geográfica tradicional se distorsiona__ para reflejar la importancia relativa de la variable seleccionada en lugar de la superficie terrestre real.
 
 *	**Funcionamiento:**
 
