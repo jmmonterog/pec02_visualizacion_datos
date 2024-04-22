@@ -62,6 +62,7 @@ Cantidad de Datos:
 *	**Visualización realizada**
 
 +	Conjunto de datos utilizado: Se utiliza el conjunto de datos "Activaciones_niveles_Plan_Nacional_Temperaturas_Estivales_2022.csv", obtenible desde el Plan de Prevención Efectos Altas Temperaturas, disponible en https://www.sanidad.gob.es/ciudadanos/saludAmbLaboral/planAltasTemp/2022/home.htm .  El conjunto de datos descargado está disponible en este mismo repositorio en el fichero "Activaciones_niveles_Plan_Nacional_Temperaturas_Estivales_2022.csv" dentro de esta misma carpeta de este repositorio.
++	Script para visualización: Se encuentra disponible en el fichero "Activaciones_niveles_Plan_Nacional_Temperaturas_Estivales_2022.ipynb" disponible en esta misma carpeta.
 +	Resultado de la visualización: Se encuentra disponible en el fichero "Activaciones_niveles_Plan_Nacional_Temperaturas_Estivales_2022.png" y se reproduce aquí:
 
 ![image](https://github.com/jmmonterog/pec02_visualizacion_datos/assets/103445965/fcb01ae4-e102-41e1-9c66-f2a5a311aec4)
