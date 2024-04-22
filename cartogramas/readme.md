@@ -2,7 +2,7 @@
 
 *	**Origen:**
 
-Los cartogramas tienen un origen histórico que se remonta a principios del siglo XX, siendo utilizados inicialmente por economistas y geógrafos para representar información estadística de manera espacial y visual. El cartograma como técnica fue popularizado por el geógrafo alemán Waldo R. Tobler en la década de 1960, quien desarrolló métodos sistemáticos para su creación.
+Los cartogramas tienen un origen histórico que se remonta a __principios del siglo XX__, siendo utilizados inicialmente por economistas y geógrafos para representar información estadística de manera espacial y visual. El cartograma como técnica fue popularizado por el geógrafo alemán Waldo R. Tobler en la década de 1960, quien desarrolló métodos sistemáticos para su creación.
 
 *	**Descripción/Funcionamiento:**
 
